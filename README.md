@@ -51,7 +51,6 @@
 ### 📺 Featured Youtube Videos for Coding
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
 [![música para programar, trabajar y estudiar - {code-fi} 👨‍💻](https://ytcards.demolab.com/?id=p0OH206z9Wg&title=música+para+programar+,+trabajar+y+estudiar+-+{code-fi}+👨‍💻&lang=en&timestamp=1636686000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "música para programar, trabajar y estudiar - {code-fi} 👨‍💻")](https://youtu.be/Dd_4zfmY-aA?si=1AhwUlIamfs6cLV3)
 <!-- END YOUTUBE-CARDS -->
 
