@@ -1,5 +1,6 @@
 
-![Uploading Black and White Simple Front End LinkedIn Banner (5).png…]()
+![Black and White Simple Front End LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4E16AQFa5Kn_9UWsrQ/profile-displaybackgroundimage-shrink_350_1400/B4EZkSqDHvHoAY-/0/1756954638678?e=1759968000&v=beta&t=vHn886hxbBixr8bfoFYMenGFCEHwKibKWz3R782Em2c)
+
 
 # 👋 Hi, I'm Matías!
 
