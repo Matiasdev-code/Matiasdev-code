@@ -17,9 +17,9 @@
 
 ### 🧠 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matiasmdev-code&theme=tokyonight&show_icons=true)  
-![Streak Stats](https://streak-stats.demolab.com?user=Matiasmdev-code&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matiasmdev-code&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matiasmdev&theme=tokyonight&show_icons=true)  
+![Streak Stats](https://streak-stats.demolab.com?user=Matiasmdev&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matiasmdev&layout=compact&theme=tokyonight)
 
 ---
 
