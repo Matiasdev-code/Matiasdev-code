@@ -1,5 +1,6 @@
 
-![Black and White Simple Front End LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4E16AQFa5Kn_9UWsrQ/profile-displaybackgroundimage-shrink_350_1400/B4EZkSqDHvHoAY-/0/1756954638678?e=1759968000&v=beta&t=vHn886hxbBixr8bfoFYMenGFCEHwKibKWz3R782Em2c)
+<img width="1584" height="396" alt="Black and White Simple Front End LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/6ff6bdef-32e8-42eb-ae94-f4ff168db88f" />
+
 
 
 # 👋 Hi, I'm Matías!
