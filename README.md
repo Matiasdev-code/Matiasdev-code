@@ -7,9 +7,9 @@
 
 🎯 Frontend Developer learning AI workflows  
 🎓 Trained in Frontend Development with React through the Alura + Oracle Education Program  
-🎥 Sharing React and tech content on [YouTube](https://www.youtube.com/@reactivocursos)  
-📚 Creator of [Reactivo](https://reactivo.com.ar), a learning platform for React and modern technologies  
-🧭 Building in public and sharing projects in my [portfolio](https://matiascoder.com)  
+🎥 Sharing React and tech content on <a href="https://www.youtube.com/@reactivocursos" target="_blank" rel="noopener noreferrer">YouTube</a>  
+📚 Creator of <a href="https://reactivo.com.ar" target="_blank" rel="noopener noreferrer">Reactivo</a>, a learning platform for React and modern technologies  
+🧭 Building in public and sharing projects in my <a href="https://matiascoder.com" target="_blank" rel="noopener noreferrer">portfolio</a>  
 ☁️ Currently learning n8n and Oracle Cloud (OCI)  
 ⚙️ Staying up to date with the latest technologies
 
