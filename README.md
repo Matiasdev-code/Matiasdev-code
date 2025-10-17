@@ -9,7 +9,7 @@
 🎓 Trained in Frontend Development with React through the Alura + Oracle Education Program  
 🎥 Sharing React and tech content on [YouTube](https://www.youtube.com/@reactivocursos)  
 📚 Creator of [Reactivo](https://reactivo.com.ar), a learning platform for React and modern technologies  
-🧭 Building in public and sharing projects in my [portfolio](https://matiasdev.com)  
+🧭 Building in public and sharing projects in my [portfolio](https://matiascoder.com)  
 ☁️ Currently learning n8n and Oracle Cloud (OCI)  
 ⚙️ Staying up to date with the latest technologies
 
