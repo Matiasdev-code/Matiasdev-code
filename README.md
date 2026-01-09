@@ -16,13 +16,15 @@
 
 ---
 
+
 ### 🧠 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matiasmdev&theme=tokyonight&show_icons=true)  
-![Streak Stats](https://streak-stats.demolab.com?user=Matiasmdev&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matiasmdev&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiasmdev&theme=tokyonight&show_icons=true&cache_seconds=86400)
+![Streak Stats](https://streak-stats.demolab.com?user=matiasmdev&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmdev&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
+
 
 ### ⚙️ Tech Stack
 
